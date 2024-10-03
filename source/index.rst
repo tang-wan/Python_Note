@@ -6,9 +6,12 @@
 Python Note
 =============
 
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
+This is the note for today's course.
+This website will continue to be updated after the course ends. Students who need it can come back and check it out.
+
+.. caution::
+   This website is for personal use only, please do not rely too much on it. And read more official documentation
+
 
 .. toctree::
    :maxdepth: 2
