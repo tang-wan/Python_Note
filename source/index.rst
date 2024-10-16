@@ -42,3 +42,9 @@ This website will continue to be updated after the course ends. Students who nee
    :caption: Ploting Figure
 
    /Notebook/5_Tutorial_Ploting.ipynb
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Mathematical Method
+
+   /Notebook/6_Mathematical_Method.ipynb
