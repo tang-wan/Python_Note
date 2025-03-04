@@ -48,3 +48,9 @@ This website will continue to be updated after the course ends. Students who nee
    :caption: Mathematical Method
 
    /Notebook/6_Mathematical_Method.ipynb
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Solving Equation
+
+   /Notebook/7_SolvingEq.ipynb
