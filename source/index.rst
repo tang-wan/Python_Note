@@ -51,6 +51,6 @@ This website will continue to be updated after the course ends. Students who nee
 
 .. toctree::
    :maxdepth: 2
-   :caption: Solving Equation
+   :caption: Mathematical Tool (sympy)
 
-   /Notebook/7_SolvingEq.ipynb
+   /Notebook/7_Mathematical_Tool.ipynb
